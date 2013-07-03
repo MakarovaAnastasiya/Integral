@@ -1,0 +1,12 @@
+﻿[unknown module pid (1836)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+1836,3740,1,1,[3 0] 1,0x773203c4
+[SUB_END]
+[END]
+

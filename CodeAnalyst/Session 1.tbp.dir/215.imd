@@ -1,0 +1,14 @@
+﻿[unknown module pid (4948)]
+SIZE=0
+SAMPS=3
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=3
+4948,4156,1,1,[3 0] 1,0x76ba3f40
+4948,4156,1,1,[2 0] 1,0x7714a8d8
+4948,4156,1,1,[3 0] 1,0x771680fd
+[SUB_END]
+[END]
+

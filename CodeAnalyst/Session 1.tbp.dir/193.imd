@@ -1,0 +1,12 @@
+﻿[unknown module pid (4348)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+4348,1896,1,1,[0 0] 1,0x76ba81c2
+[SUB_END]
+[END]
+

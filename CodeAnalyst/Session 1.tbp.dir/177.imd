@@ -1,0 +1,13 @@
+﻿[unknown module pid (3936)]
+SIZE=0
+SAMPS=2
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=2
+3936,3828,1,1,[1 0] 1,0x7716355b
+3936,3828,1,1,[1 0] 1,0x771680fd
+[SUB_END]
+[END]
+

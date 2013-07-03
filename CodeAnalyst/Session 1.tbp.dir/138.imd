@@ -1,0 +1,12 @@
+﻿[unknown module pid (1228)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+1228,2308,1,1,[3 0] 1,0x7713c0d6
+[SUB_END]
+[END]
+

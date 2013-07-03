@@ -1,0 +1,15 @@
+﻿[C:\Windows\System32\drivers\rdyboost.sys]
+SIZE=0
+SAMPS=3
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff88002261000
+LINECOUNT=3
+1772,3440,1,1,[1 0] 1,0x94d2
+1772,3440,1,1,[1 0] 1,0x9d97
+1772,3440,1,1,[2 0] 1,0x1c385
+[SUB_END]
+[END]
+

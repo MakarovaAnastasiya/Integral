@@ -1,0 +1,13 @@
+﻿[unknown module pid (832)]
+SIZE=0
+SAMPS=2
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=2
+832,4872,1,1,[3 0] 1,0x773203c1
+832,4872,1,1,[3 0] 1,0x773284d7
+[SUB_END]
+[END]
+

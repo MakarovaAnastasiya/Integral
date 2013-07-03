@@ -1,0 +1,12 @@
+﻿[unknown module pid (916)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+916,928,1,1,[3 0] 1,0x77312353
+[SUB_END]
+[END]
+

@@ -1,0 +1,12 @@
+﻿[unknown module pid (3112)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+3112,3148,1,1,[3 0] 1,0x7715713a
+[SUB_END]
+[END]
+

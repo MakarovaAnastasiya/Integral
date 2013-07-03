@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<OSV version="1" >
+	<Entry hdr="Target Application Info" >
+		<Entry hdr="PID : 2588" val="C:\Windows\SysWOW64\ntdll.dll" >
+			<Entry hdr="TID : 1056" val="1573.81 sec" />
+			<Entry hdr="TID : 1964" val="1573.7 sec" />
+			<Entry hdr="TID : 2696" val="1574.02 sec" />
+			<Entry hdr="TID : 3292" val="9.991 sec" />
+			<Entry hdr="TID : 3412" val="1573.81 sec" />
+			<Entry hdr="TID : 3888" val="1574.02 sec" />
+			<Entry hdr="TID : 4592" val="1573.81 sec" />
+			<Entry hdr="TID : 4944" val="1574.02 sec" />
+			<Entry hdr="TID : 5040" val="1574.02 sec" />
+		</Entry>
+	</Entry>
+	<Entry hdr="System-wide Profile" >
+		<Entry hdr="Number of Processes" val="165  [View Processes]" lnk = "proc:Session 1.tbp" />
+		<Entry hdr="Number of Modules" val="231  [View Modules]" lnk = "sys:Session 1.tbp" />
+	</Entry>
+</OSV>

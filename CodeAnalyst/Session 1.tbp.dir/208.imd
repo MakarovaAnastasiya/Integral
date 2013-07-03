@@ -1,0 +1,13 @@
+﻿[unknown module pid (4712)]
+SIZE=0
+SAMPS=2
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=2
+4712,3652,1,1,[0 0] 1,0x77168100
+4712,3652,1,1,[0 0] 1,0x7716818a
+[SUB_END]
+[END]
+

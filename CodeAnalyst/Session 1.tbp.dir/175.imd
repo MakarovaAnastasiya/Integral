@@ -1,0 +1,13 @@
+﻿[unknown module pid (3820)]
+SIZE=0
+SAMPS=2
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=2
+3820,2388,1,1,[2 0] 1,0x77151b41
+3820,2388,1,1,[2 0] 1,0x771680f4
+[SUB_END]
+[END]
+

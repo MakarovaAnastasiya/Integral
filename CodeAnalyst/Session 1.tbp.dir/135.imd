@@ -1,0 +1,13 @@
+﻿[unknown module pid (1076)]
+SIZE=0
+SAMPS=2
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=2
+1076,3560,1,1,[1 0] 1,0x74b8a45c
+1076,3560,1,1,[1 0] 1,0x773203cd
+[SUB_END]
+[END]
+

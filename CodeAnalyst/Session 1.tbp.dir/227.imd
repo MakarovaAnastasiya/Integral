@@ -1,0 +1,12 @@
+﻿[unknown module pid (896)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+896,2640,1,1,[0 0] 1,0x7716875e
+[SUB_END]
+[END]
+

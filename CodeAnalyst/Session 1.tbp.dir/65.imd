@@ -1,0 +1,18 @@
+﻿[C:\Windows\System32\cdd.dll]
+SIZE=0
+SAMPS=8
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff96000670000
+LINECOUNT=6
+596,700,1,1,[2 0] 1,0x109d5
+596,700,1,1,[2 0] 1,0x109de
+596,624,3,2,[2 0] 1,[3 0] 2,0x200d4
+596,624,1,1,[2 0] 1,0x200dd
+596,624,1,1,[2 0] 1,0x200ef
+596,624,1,1,[3 0] 1,0x200fa
+[SUB_END]
+[END]
+

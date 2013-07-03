@@ -1,0 +1,15 @@
+﻿[C:\Program Files (x86)\AMD\CodeAnalyst\bin\QtCore4.dll]
+SIZE=0
+SAMPS=3
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x627f0000
+LINECOUNT=3
+3064,4764,1,1,[3 0] 1,0x6a12
+3064,4764,1,1,[3 0] 1,0x2d023
+3064,3696,1,1,[1 0] 1,0x6529f
+[SUB_END]
+[END]
+

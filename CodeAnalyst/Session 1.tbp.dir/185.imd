@@ -1,0 +1,14 @@
+﻿[unknown module pid (4160)]
+SIZE=0
+SAMPS=3
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=3
+4160,3432,1,1,[2 0] 1,0x771354c3
+4160,3432,1,1,[2 0] 1,0x77162f4e
+4160,3432,1,1,[2 0] 1,0x771680ef
+[SUB_END]
+[END]
+

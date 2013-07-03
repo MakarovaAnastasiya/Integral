@@ -1,0 +1,22 @@
+﻿[C:\Windows\system32\DRIVERS\HIDCLASS.SYS]
+SIZE=0
+SAMPS=10
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff880071da000
+LINECOUNT=10
+0,0,1,1,[0 0] 1,0x1ffb
+0,0,1,1,[0 0] 1,0x258f
+916,928,1,1,[0 0] 1,0x463d
+0,0,1,1,[0 0] 1,0x4a8f
+0,0,1,1,[0 0] 1,0x4b11
+0,0,1,1,[0 0] 1,0x4baa
+0,0,1,1,[0 0] 1,0xb1a3
+0,0,1,1,[0 0] 1,0xb1c0
+0,0,1,1,[0 0] 1,0xb9e2
+0,0,1,1,[0 0] 1,0xbaf7
+[SUB_END]
+[END]
+

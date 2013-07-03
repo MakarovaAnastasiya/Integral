@@ -1,0 +1,13 @@
+﻿[unknown module pid (2624)]
+SIZE=0
+SAMPS=2
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=2
+2624,2976,1,1,[3 0] 1,0x7715e789
+2624,2976,1,1,[2 0] 1,0x773284ab
+[SUB_END]
+[END]
+

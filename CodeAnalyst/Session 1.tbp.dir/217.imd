@@ -1,0 +1,14 @@
+﻿[unknown module pid (5000)]
+SIZE=0
+SAMPS=3
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=3
+5000,3416,1,1,[1 0] 1,0x74b8ac15
+5000,3416,1,1,[1 0] 1,0x77165e32
+5000,3416,1,1,[1 0] 1,0x7732e12f
+[SUB_END]
+[END]
+

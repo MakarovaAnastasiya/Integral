@@ -1,0 +1,20 @@
+﻿[C:\Windows\system32\DRIVERS\intelppm.sys]
+SIZE=0
+SAMPS=10
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff880048fd000
+LINECOUNT=8
+1772,3440,1,1,[2 0] 1,0x105e
+0,0,1,1,[3 0] 1,0x10c9
+1772,3440,1,1,[1 0] 1,0x10c9
+0,0,1,1,[0 0] 1,0x2f1c
+0,0,1,1,[0 0] 1,0x2f21
+0,0,1,1,[0 0] 1,0x2f35
+1156,3540,1,1,[2 0] 1,0x2f51
+1772,3440,3,2,[0 0] 1,[1 0] 2,0x2f5f
+[SUB_END]
+[END]
+

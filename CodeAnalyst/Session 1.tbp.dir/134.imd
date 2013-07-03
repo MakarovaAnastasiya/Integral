@@ -1,0 +1,13 @@
+﻿[unknown module pid (1072)]
+SIZE=0
+SAMPS=2
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=2
+1072,1868,1,1,[1 0] 1,0x77168053
+1072,1868,1,1,[1 0] 1,0x773203b7
+[SUB_END]
+[END]
+

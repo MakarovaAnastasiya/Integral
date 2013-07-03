@@ -1,0 +1,14 @@
+﻿[unknown module pid (4312)]
+SIZE=0
+SAMPS=3
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=3
+4312,1032,1,1,[3 0] 1,0x74b9f3ac
+4312,1032,1,1,[3 0] 1,0x773122b7
+4312,1032,1,1,[3 0] 1,0x773203c9
+[SUB_END]
+[END]
+

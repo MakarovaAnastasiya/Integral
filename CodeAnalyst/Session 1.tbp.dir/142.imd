@@ -1,0 +1,13 @@
+﻿[unknown module pid (1380)]
+SIZE=0
+SAMPS=2
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=2
+1380,4788,1,1,[3 0] 1,0x7714b97c
+1380,4788,1,1,[3 0] 1,0x77168100
+[SUB_END]
+[END]
+

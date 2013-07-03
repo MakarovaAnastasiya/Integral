@@ -1,0 +1,13 @@
+﻿[unknown module pid (3248)]
+SIZE=0
+SAMPS=2
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=2
+3248,1696,1,1,[0 0] 1,0x77168093
+3248,1696,1,1,[0 0] 1,0x7716811b
+[SUB_END]
+[END]
+

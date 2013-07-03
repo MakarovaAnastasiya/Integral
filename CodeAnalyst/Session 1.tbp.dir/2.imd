@@ -1,0 +1,15 @@
+﻿[C:\Program Files (x86)\AMD\CodeAnalyst\bin\QtGui4.dll]
+SIZE=0
+SAMPS=3
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x62340000
+LINECOUNT=3
+3064,4764,1,1,[3 0] 1,0xafd7f
+3064,4764,1,1,[0 0] 1,0xb0452
+3064,4764,1,1,[3 0] 1,0x2a8905
+[SUB_END]
+[END]
+

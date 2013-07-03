@@ -1,0 +1,14 @@
+﻿[C:\Windows\system32\DRIVERS\klim6.sys]
+SIZE=0
+SAMPS=2
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff88005226000
+LINECOUNT=2
+1772,3440,1,1,[2 0] 1,0x19b4
+0,0,1,1,[2 0] 1,0x2935
+[SUB_END]
+[END]
+

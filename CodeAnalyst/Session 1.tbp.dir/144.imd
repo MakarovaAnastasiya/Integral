@@ -1,0 +1,12 @@
+﻿[unknown module pid (1444)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+1444,4164,1,1,[3 0] 1,0x7732bcf5
+[SUB_END]
+[END]
+

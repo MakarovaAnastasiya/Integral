@@ -1,0 +1,13 @@
+﻿[unknown module pid (4108)]
+SIZE=0
+SAMPS=2
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=2
+4108,904,1,1,[0 0] 1,0x77162f51
+4108,904,1,1,[0 0] 1,0x77162f74
+[SUB_END]
+[END]
+

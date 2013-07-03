@@ -1,0 +1,13 @@
+﻿[unknown module pid (3728)]
+SIZE=0
+SAMPS=2
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=2
+3728,5060,1,1,[2 0] 1,0x76a158a1
+3728,5060,1,1,[0 0] 1,0x77323af9
+[SUB_END]
+[END]
+

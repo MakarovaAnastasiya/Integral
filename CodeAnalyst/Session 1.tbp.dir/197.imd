@@ -1,0 +1,13 @@
+﻿[unknown module pid (4456)]
+SIZE=0
+SAMPS=2
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=2
+4456,4540,1,1,[1 0] 1,0x77148bb4
+4456,4540,1,1,[1 0] 1,0x7732040a
+[SUB_END]
+[END]
+

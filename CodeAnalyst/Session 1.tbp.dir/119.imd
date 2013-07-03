@@ -1,0 +1,18 @@
+﻿[C:\Windows\system32\drivers\nsiproxy.sys]
+SIZE=0
+SAMPS=6
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff8800525c000
+LINECOUNT=6
+1772,2712,1,1,[1 0] 1,0x14f6
+1428,4816,1,1,[2 0] 1,0x1c3c
+1772,2712,1,1,[1 0] 1,0x1cb7
+1772,2712,1,1,[1 0] 1,0x1cf1
+1772,2712,1,1,[0 0] 1,0x2779
+1772,2712,1,1,[1 0] 1,0x5073
+[SUB_END]
+[END]
+

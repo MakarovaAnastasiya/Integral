@@ -1,0 +1,13 @@
+﻿[C:\Windows\system32\DRIVERS\tdx.sys]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff88004a75000
+LINECOUNT=1
+3112,3148,1,1,[0 0] 1,0x5dd9
+[SUB_END]
+[END]
+

@@ -1,0 +1,12 @@
+﻿[unknown module pid (1256)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+1256,4988,1,1,[2 0] 1,0x77162f55
+[SUB_END]
+[END]
+
