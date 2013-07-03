@@ -1,0 +1,16 @@
+﻿[C:\Windows\SysWOW64\cryptsp.dll]
+SIZE=0
+SAMPS=4
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x732d0000
+LINECOUNT=4
+4200,4992,1,1,[0 0] 1,0x86c3
+4200,4992,1,1,[0 0] 1,0xb727
+4200,4992,1,1,[0 0] 1,0xb7aa
+4200,4992,1,1,[0 0] 1,0xbbeb
+[SUB_END]
+[END]
+

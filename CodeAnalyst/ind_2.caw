@@ -1,0 +1,67 @@
+FileVersion=7
+[GENERAL]
+Name=Session
+Notes=
+Launch="E:\Новая папка\ind_5\ind_5\ind_2\bin\Debug\ind_2.exe" 
+WorkDir=E:\Новая папка\ind_5\ind_5\ind_2\bin\Debug
+StopOnApp=1
+BreakAfter=0
+Duration=0
+StartPaused=0
+StartImmediately=0
+CSS=0
+CssInterval=10
+StartDelay=0
+CssUnwind=10
+Affinity=18446744073709551615
+SaveRaw=0
+CLUtilEnabled=0
+CLUtilChecked=0
+LdStEnabled=0
+LdStChecked=0
+ApplyProcFilter= 0
+UtilMask= 0
+Pids= 
+EnvVars=
+LastProfile=
+LaunchHistory=E:\Новая папка\ind_5\ind_5\ind_2\bin\Debug\ind_2.exe
+LaunchHistory=
+ArgumentsHistory=
+WorkDirHistory=E:\Новая папка\ind_5\ind_5\ind_2\bin\Debug
+WorkDirHistory=
+ProcessFilter=
+
+[Profiles]
+
+Name=Session
+Notes=
+Launch="E:\Новая папка\ind_5\ind_5\ind_2\bin\Debug\ind_2.exe" 
+WorkDir=E:\Новая папка\ind_5\ind_5\ind_2\bin\Debug
+StopOnApp=1
+BreakAfter=0
+Duration=0
+StartPaused=0
+StartImmediately=0
+CSS=0
+CssInterval=10
+StartDelay=0
+CssUnwind=10
+Affinity=18446744073709551615
+SaveRaw=0
+CLUtilEnabled=0
+CLUtilChecked=0
+LdStEnabled=0
+LdStChecked=0
+ApplyProcFilter= 0
+UtilMask= 0
+Pids= 4200,
+EnvVars=
+ProfileFile=Session.tbp
+Cpus=4
+Profile=1
+msInterval=1
+Fetch=0
+OpSample=0
+EventGroupCount=0
+
+[End]

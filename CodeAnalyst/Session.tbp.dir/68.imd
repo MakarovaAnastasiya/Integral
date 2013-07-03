@@ -1,0 +1,14 @@
+﻿[C:\Windows\system32\drivers\volsnap.sys]
+SIZE=0
+SAMPS=2
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff880019a5000
+LINECOUNT=2
+1772,2396,1,1,[0 0] 1,0x11cf
+0,0,1,1,[0 0] 1,0x5402
+[SUB_END]
+[END]
+

@@ -1,0 +1,13 @@
+﻿[C:\Windows\SysWOW64\sspicli.dll]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x749d0000
+LINECOUNT=1
+1752,4592,1,1,[1 0] 1,0x23788
+[SUB_END]
+[END]
+

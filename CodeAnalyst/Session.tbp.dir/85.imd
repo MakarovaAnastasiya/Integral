@@ -1,0 +1,12 @@
+﻿[unknown module pid (4932)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+4932,2384,1,1,[1 0] 1,0x77123be5
+[SUB_END]
+[END]
+

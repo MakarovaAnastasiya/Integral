@@ -1,0 +1,14 @@
+﻿[C:\Windows\system32\drivers\PCIIDEX.SYS]
+SIZE=0
+SAMPS=2
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff88000db6000
+LINECOUNT=2
+0,0,1,1,[0 0] 1,0x106f
+1772,3440,1,1,[1 0] 1,0x10c0
+[SUB_END]
+[END]
+

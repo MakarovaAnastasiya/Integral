@@ -1,0 +1,13 @@
+﻿[C:\Windows\SysWOW64\shlwapi.dll]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x74d40000
+LINECOUNT=1
+4200,4992,1,1,[2 0] 1,0xc3b9
+[SUB_END]
+[END]
+

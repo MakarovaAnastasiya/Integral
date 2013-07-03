@@ -1,0 +1,14 @@
+﻿[C:\Program Files (x86)\Git\bin\git.exe]
+SIZE=0
+SAMPS=2
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x400000
+LINECOUNT=2
+1752,4592,1,1,[3 0] 1,0x6edbd
+3840,4660,1,1,[2 0] 1,0xbc3ab
+[SUB_END]
+[END]
+

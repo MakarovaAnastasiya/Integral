@@ -1,0 +1,16 @@
+﻿[C:\Windows\system32\drivers\atapi.sys]
+SIZE=0
+SAMPS=4
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff88001548000
+LINECOUNT=4
+0,0,1,1,[0 0] 1,0x16e4
+0,0,1,1,[0 0] 1,0x1742
+1772,3440,1,1,[3 0] 1,0x2045
+1772,2396,1,1,[2 0] 1,0x3afa
+[SUB_END]
+[END]
+

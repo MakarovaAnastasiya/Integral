@@ -1,0 +1,16 @@
+﻿[C:\Windows\SysWOW64\KernelBase.dll]
+SIZE=0
+SAMPS=4
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x769e0000
+LINECOUNT=4
+4200,4992,1,1,[2 0] 1,0xaf6c
+4200,4992,1,1,[2 0] 1,0xaf6f
+4200,4992,1,1,[1 0] 1,0x13db6
+4200,4992,1,1,[2 0] 1,0x36fc8
+[SUB_END]
+[END]
+

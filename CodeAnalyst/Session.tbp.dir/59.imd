@@ -1,0 +1,13 @@
+﻿[C:\Windows\system32\drivers\NETIO.SYS]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff88001f98000
+LINECOUNT=1
+1772,3836,1,1,[0 0] 1,0x1614
+[SUB_END]
+[END]
+

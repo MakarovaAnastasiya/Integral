@@ -1,0 +1,12 @@
+﻿[unknown module pid (3852)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+3852,2980,1,1,[3 0] 1,0x437dd3
+[SUB_END]
+[END]
+

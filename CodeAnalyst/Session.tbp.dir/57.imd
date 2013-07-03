@@ -1,0 +1,15 @@
+﻿[C:\Windows\system32\drivers\ACPI.sys]
+SIZE=0
+SAMPS=3
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff88000f74000
+LINECOUNT=3
+0,0,1,1,[0 0] 1,0x10ff9
+1772,3440,1,1,[1 0] 1,0x13719
+3840,4660,1,1,[1 0] 1,0x13719
+[SUB_END]
+[END]
+
