@@ -1,0 +1,65 @@
+﻿<Window x:Class="ind_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:charting="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        Title="MainWindow" Height="600" Width="900" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" d:DesignHeight="822" SizeToContent="Height">
+    <DockPanel Width="auto" 
+            Height="Auto" LastChildFill="True" >
+        <!--Главная область меню-->
+        <Menu DockPanel.Dock="Top" Background="{x:Null}" HorizontalAlignment="Left" Height="24">
+            <MenuItem Header="Файл" Name="FileMenu" Click="FileMenu_Click" Background="{x:Null}" Foreground="Black" FontFamily="Deutsch Gothic">
+                <MenuItem Header="Заново" Click="reset_Click"/>
+                <MenuItem Header="Выход" Click="ExitClick"/>
+            </MenuItem>
+            <MenuItem Header="Опции" Background="{x:Null}" Foreground="Black" FontFamily="Deutsch Gothic" Click="m_file">
+                <MenuItem Header="Файл" Click="m_file"/>
+                <MenuItem Header="TextBox" Click="m_TextBox"/>
+            </MenuItem>
+            <MenuItem Header="Помощь" Click="HelpClick" Background="{x:Null}" Foreground="Black" FontFamily="Deutsch Gothic" />
+        </Menu>
+        <!--Объединенная область -->
+        <!--Левая главная область-->
+        <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+        <StackPanel Width="840" 
+               Height="Auto" Opacity="1" Visibility="Visible" Background="{x:Null}" DockPanel.Dock="Right">
+            <Grid Height="38" Name="grid1" Width="auto">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="146*" />
+                    <ColumnDefinition Width="664*" />
+                </Grid.ColumnDefinitions>
+                    <TextBlock FontSize="18" FontStyle="Italic" FontWeight="Bold" Height="34" Name="textBlock1" Text="Метод трапеций для численного интегрирования" TextAlignment="Center" Margin="27,0,170,0" VerticalAlignment="Top" HorizontalAlignment="Center" Grid.Column="1" />
+                <Button Content="Заново" Height="23" Name="reset" Width="75"  Click="reset_Click" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" HorizontalAlignment="Right" VerticalAlignment="Top" Grid.Column="1" />
+            </Grid>
+            <RadioButton Content="Считать уравнение из файла" Height="16" Name="radioButton_file"/>
+            <RadioButton Content="Ввести уравнение вручную" Height="16" Name="radioButton_TextBox" IsChecked="True" />
+            <Button Content="Далее" Height="23" Name="next" Width="75" Click="next_Click" ToolTip="Ввод дпнных" />
+            <Label Name="label_1" Height="auto" Width="auto" Margin="5,10,5,0" IsEnabled="True" Visibility="Collapsed" FontFamily="Times New Roman" VerticalContentAlignment="Center" FontWeight="Bold" FontStretch="SemiCondensed" FontStyle="Normal" Padding="5" Foreground="Black" FontSize="16">Введите уравнение</Label>
+            <Label Name="label_2" Height="auto" Width="auto" Margin="5,10,5,0" IsEnabled="True" Visibility="Collapsed" FontFamily="Times New Roman" VerticalContentAlignment="Center" FontWeight="Bold" FontStretch="SemiCondensed" FontStyle="Normal" Padding="5" Foreground="Black" FontSize="16">Введенное уравнение</Label>
+            <TextBox Height="69" Name="t_function" Width="auto" Margin="5,5,5,5" IsEnabled="True" Visibility="Collapsed" FontFamily="Times New Roman" TextWrapping="Wrap" ToolTip="Введите функфию" />
+            <Canvas Height="71" Name="canvas1" Width="663" Visibility="Collapsed">
+                <TextBox Canvas.Left="6" Canvas.Top="36" Height="23" Name="t_a" Width="120" ToolTip="Левая граница" />
+                <Label Canvas.Left="6" Canvas.Top="10" Content="Нижняя граница (a)" Height="28" Name="l_a" Width="120" />
+                <TextBox Canvas.Left="184" Canvas.Top="36" Height="23" Name="t_b" Width="120" ToolTip="Правая граница" />
+                <Label Canvas.Left="184" Canvas.Top="10" Content="Верхняя граница (b)" Height="28" Name="l_b" Width="120" />
+                <TextBox Canvas.Left="348" Canvas.Top="36" Height="23" Name="t_accurate" Width="120" ToolTip="Точность вычисления" />
+                <Label Canvas.Left="348" Canvas.Top="10" Content="Число шагов" Height="28" Name="l_accurate" Width="120" />
+                <TextBox Canvas.Left="513" Canvas.Top="36" Height="23" Name="t_variable" Width="120" ToolTip="Имя переменной, отностительно которой производятся вычисления" />
+                <Label Canvas.Left="513" Canvas.Top="10" Content="Переменная" Height="28" Name="l_variable" Width="120" />
+            </Canvas>
+            <CheckBox Content="Сохранить результаты в word " Height="16" Name="s_word" Visibility="Collapsed" Width="777" />
+            <CheckBox Content="Сохранить результаты в текстовый файл" Height="16" Name="s_txt" Width="777" Visibility="Collapsed" />
+            <CheckBox Content="Сохранить графическое отображение результатов расчета" Height="16" Name="s_picture" Visibility="Collapsed" Width="777" />
+            <Button Content="Решить" Height="26" Name="start" Width="118" Background="White" Click="start_Click" Visibility="Collapsed" />
+                <DockPanel Height="Auto" Name="dockPanel1" Width="622">
+                    <charting:Chart Name="myChart" Height="350" Width="490" Visibility="Collapsed" DockPanel.Dock="Left">
+                        <charting:Chart.Axes>
+                            <charting:LinearAxis Orientation="Y" Title="y" ShowGridLines="True" Name="Y" />
+                            <charting:LinearAxis Orientation="X" Title="x" ShowGridLines="True" Name="X" />
+                        </charting:Chart.Axes>
+                    </charting:Chart>
+                    <TextBox Height="30" Name="textBoxResult" Width="Auto" DockPanel.Dock="Right" Visibility="Collapsed"/>
+                </DockPanel>
+            </StackPanel>
+        </ScrollViewer>
+    </DockPanel>
+</Window>
